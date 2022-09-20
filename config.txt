@@ -1,0 +1,7 @@
+1. npm i -g @nestjs/cli
+설치
+
+2. nest new {project-name}
+작업할 폴더와 파일 생성
+
+
